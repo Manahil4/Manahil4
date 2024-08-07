@@ -78,5 +78,5 @@
 
 
 <h3 align="left">Leetcode Stats:</h3>
-![](https://leetcard.jacoblin.cool/manahil4?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Manahil4?ext=heatmap)
 
