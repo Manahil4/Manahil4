@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manahil Ejaz</h1>
-<h3 align="center">CIS 2026 | Proficient in Python & C | Passionate about Computer Hardware | Learning Web Development</h3>
+<h3 align="center">CIS 2026 NED | Proficient in Python & C | Passionate about Computer Hardware | Learning Web Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manahil4" alt="manahil4" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend Web Development**
 
 - 🌱 I’m currently learning **Frontend Web Development,Python, C, Oracle Sql, Django**
+
+- 🌱 I’m currently enrolled in **Bachelors in Computer And Information Systems Engineering from NEDUET**
 
 - 👨‍💻 All of my projects are available at [github.com/Manahil4](github.com/Manahil4)
 
@@ -29,5 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahil4&" alt="manahil4" /></p>
 
-
-  
