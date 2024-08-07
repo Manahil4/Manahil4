@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: **manahilejaz16@gmail.com**
 
-<br><br><br><br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -36,7 +36,7 @@
 <a href="https://www.leetcode.com/manahil-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manahil ejaz" height="30" width="40" /></a>
 </p>
 
-<br><br><br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
