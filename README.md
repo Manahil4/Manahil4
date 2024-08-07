@@ -1,3 +1,7 @@
+<!-- Cover Photo -->
+<p align="center">
+  <img src="Add a heading (6).png" alt="Cover Photo" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Manahil Ejaz</h1>
 
 <h3 align="center">CIS 2026 NED | Proficient in Python & C | Passionate about Computer Hardware | Learning Web Development</h3>
