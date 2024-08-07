@@ -70,3 +70,13 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahil4&" alt="manahil4" /></p>
+
+<br><br><br><br><br><br>
+<br>
+<br>
+
+
+
+<h3 align="left">Leetcode Stats:</h3>
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
