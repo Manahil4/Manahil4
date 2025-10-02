@@ -3,78 +3,82 @@
   <img src="Add a heading (6).png" alt="Cover Photo" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Manahil Ejaz</h1>
+<h3 align="center">A Computer Systems Engineering Student passionate about AI/ML, Computer Vision & Hardware Design</h3>
 
-<h3 align="center">CIS 2026 NED | Proficient in Python & C | Passionate about Computer Hardware | Learning Web Development</h3>
+- 🔭 I'm currently working on **In-Line Tablet Quality Control using Computer Vision** (AI-powered pharmaceutical inspection system)
 
-<br>
+- 🌱 I'm currently learning **SystemVerilog, UVM, and Advanced Computer Vision**
 
-- 🔭 I’m currently working on **Frontend Web Development**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Manahil4)
 
-<br>
+- 💬 Ask me about **Computer Vision, Machine Learning, Digital Design, and Embedded Systems**
 
-- 🌱 I’m currently learning **Frontend Web Development, Python, C, Oracle SQL, Django**
+- 📫 How to reach me **manahilejaz16@gmail.com**
 
-<br>
+- ⚡ Fun fact **I bridge the gap between hardware and AI - from transistor-level design to intelligent systems!**
 
-- 🌱 I’m currently enrolled in **Bachelors in Computer And Information Systems Engineering from NEDUET**
+<br />
 
-<br>
+<h2 align="left">Connect With Me:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/manahilejaz16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="70" width="80" /></a>
 
-- 👨‍💻 All of my projects are available at [github.com/Manahil4](https://github.com/Manahil4)
-
-<br>
-
-- 💬 Ask me about **Python, C, Oracle SQL, Django**
-
-<br>
-
-- 📫 How to reach me: **manahilejaz16@gmail.com**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/manahil-ejaz-927553254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manahil ejaz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100086478013372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manahil ejaz" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ManahilEjaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manahil ejaz" height="30" width="40" /></a>
 </p>
 
-<br>
+<br /> 
+<h2 align="left">Technical Skills:</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h3 align="left">AI/ML & Computer Vision</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> </a>
 </p>
 
+<h3 align="left">Hardware Design & Embedded Systems</h3>
+<p align="center">
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a>
+</p>
 
+<h3 align="left">Web Development & Tools</h3>
+<p align="center">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="80"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manahil4&show_icons=true&locale=en&layout=compact" alt="manahil4" /></p>
+<br />
 
-<br><br><br><br><br><br>
-<br>
-<br>
+<h2 align="left">Featured Projects:</h2>
 
+### 🤖 AI/ML & Computer Vision
+- **In-Line Tablet Quality Control** - AI-powered pharmaceutical inspection system using Computer Vision
+- **End-to-End CIFAR-10 Classification** - Comparative analysis of KNN, Logistic Regression, and Neural Networks
+- **Handwritten Digit Recognition** - ANN with Genetic Algorithm optimization for hyperparameter tuning
+- **YOLOPose Keypoint Optimization** - Enhanced pose detection accuracy with noise filtering
 
+### 🔌 Hardware & Embedded Systems
+- **AXI-Stream Packet Parser** - SystemVerilog design with UVM verification for Ethernet/IPv4/IPv6 headers
+- **7-Stage Pipeline Processor** - MIPS processor with hazard detection and data forwarding
+- **FPGA-based Parking System** - Artix-7 implementation with real-time slot monitoring
+- **IoT Air Quality Monitoring** - ESP32 system with cloud integration and live dashboard
 
-<h3 align="left">GitHub Stats:</h3>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahil4&" alt="manahil4" /></p>
+<h2 align="left">GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manahil4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manahil4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<br><br><br><br><br><br>
-<br>
-<br>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manahil4&theme=radical" alt="GitHub Streak" />
+</p>
 
-<h3 align="left">Leetcode Stats:</h3>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ManahilEjaz?ext=heatmap)
+![](https://komarev.com/ghpvc/?username=Manahil4&color=blueviolet)
