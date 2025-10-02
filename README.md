@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/uc?export=view&id=184LRw1ObCuT2KTX-BUZv8rExdlquE_WE" alt="Cover Photo" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manahil Ejaz</h1>
+<h1 align="center">Hi, I'm Manahil Ejaz</h1>
 <h3 align="center">A Computer Systems Engineering Student passionate about AI/ML, Computer Vision & Hardware Design</h3>
 
 - 🔭 I'm currently working on **In-Line Tablet Quality Control using Computer Vision** (AI-powered pharmaceutical inspection system)
@@ -20,11 +20,6 @@
 
 <br />
 
-<h2 align="left">Connect With Me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/manahilejaz16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="70" width="80" /></a>
-
-</p>
 
 <br /> 
 <h2 align="left">Technical Skills:</h2>
