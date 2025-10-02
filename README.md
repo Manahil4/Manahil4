@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="CoverPhoto.png" alt="Cover Photo" width="100%" />
+  <img src="[CoverPhoto.png](https://drive.google.com/file/d/184LRw1ObCuT2KTX-BUZv8rExdlquE_WE/view?usp=sharing)" alt="Cover Photo" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Manahil Ejaz</h1>
 <h3 align="center">A Computer Systems Engineering Student passionate about AI/ML, Computer Vision & Hardware Design</h3>
